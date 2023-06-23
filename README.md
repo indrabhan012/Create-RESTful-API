@@ -2,7 +2,7 @@
 
 ## Install Component
 
-#### Node.js      
-#### Express.js   //Express is a web framework which can be used along with Node.js.
-#### Joi
-#### Nodemon
+##### Node.js      
+##### Express.js   //Express is a web framework which can be used along with Node.js.
+##### Joi
+##### Nodemon
