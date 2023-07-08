@@ -10,5 +10,5 @@
 
 ##### Postman
 
-### code Editior (IDE) :
+### Code Editior (IDE) :
   ##### Visual Studio Code Editor
